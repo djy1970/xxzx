@@ -128,9 +128,14 @@ CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 锦州新闻综合,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000277
 阜新综合,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000279
 义县宣传,#genre#
+义县方志,https://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/6bf89fd7aed3428f829f3c442327a21e/1200.m3u8
 义县奉国寺,http://www.yizhouw.cn/upload/portal/video/shenqiyixian/2%E5%A5%89%E5%9B%BD%E5%AF%BA%20%E7%AC%AC%E4%BA%8C%E7%89%880%20%EF%BC%88%E5%AD%97%E5%B9%95%E7%89%88%EF%BC%89.mp4
 万佛堂,http://www.yizhouw.cn/upload/portal/video/shenqiyixian/3%E8%BE%BD%E9%AD%8F%E4%BD%9B%E5%9B%BD%E4%B8%80%E6%B0%B4%E9%97%B4%EF%BC%88%E4%BF%AE%E6%94%B9%E7%89%88%EF%BC%89.mp4
 义县2023春晚,http://www.yizhouw.cn/upload/portal/video/daxinghuodong/2023%E6%98%A5%E6%99%9A.mp4
+农民丰收节,http://www.yizhouw.cn/upload/portal/video/%E7%9F%AD%E8%A7%86%E9%A2%91/%E4%B8%B0%E6%94%B6%E8%8A%822023.mp4
+好花生在义县,http://www.yizhouw.cn/upload/portal/video/%E7%9F%AD%E8%A7%86%E9%A2%91/%E5%A5%BD%E8%8A%B1%E7%94%9F%E5%9C%A8%E4%B9%89%E5%8E%BF.mp4
+义县天鹅,http://www.yizhouw.cn/upload/portal/video/%E7%9F%AD%E8%A7%86%E9%A2%91/%E5%A4%A9%E9%B9%85.mp4
+宝林楼,https://vd3.bdstatic.com/mda-pjj4msnq77veft18/sc/cae_h264/1697802409334318580/mda-pjj4msnq77veft18.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1703054310-0-0-3b45cd50bb63150668bbe03c6210d310&bcevod_channel=searchbox_feed&cr=2&cd=0&pd=1&pt=3&logid=2310460780&vid=8496990502519239981&klogid=2310460780&abtest=
 12月1日新闻,http://www.yizhouw.cn/upload/portal/video/%E4%B9%89%E5%8E%BF%E6%96%B0%E9%97%BB/%E4%B9%89%E5%8E%BF%E6%96%B0%E9%97%BB2023%E5%B9%B412%E6%9C%881%E6%97%A5.mp4
 12月2日新闻,http://www.yizhouw.cn/upload/portal/video/%E4%B9%89%E5%8E%BF%E6%96%B0%E9%97%BB/%E4%B9%89%E5%8E%BF%E6%96%B0%E9%97%BB2023%E5%B9%B412%E6%9C%882%E6%97%A5.mp4
 12月3日新闻,http://www.yizhouw.cn/upload/portal/video/%E4%B9%89%E5%8E%BF%E6%96%B0%E9%97%BB/%E4%B9%89%E5%8E%BF%E6%96%B0%E9%97%BB2023%E5%B9%B412%E6%9C%883%E6%97%A5.mp4
