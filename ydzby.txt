@@ -156,6 +156,17 @@ CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 12月18日新闻,http://www.yizhouw.cn/upload/portal/video/%E4%B9%89%E5%8E%BF%E6%96%B0%E9%97%BB/%E4%B9%89%E5%8E%BF%E6%96%B0%E9%97%BB2023%E5%B9%B412%E6%9C%8818%E6%97%A5.mp4
 12月19日新闻,http://www.yizhouw.cn/upload/portal/video/%E4%B9%89%E5%8E%BF%E6%96%B0%E9%97%BB/%E4%B9%89%E5%8E%BF%E6%96%B0%E9%97%BB2023%E5%B9%B412%E6%9C%8819%E6%97%A5.mp4
 12月20日新闻,http://www.yizhouw.cn/upload/portal/video/%E4%B9%89%E5%8E%BF%E6%96%B0%E9%97%BB/%E4%B9%89%E5%8E%BF%E6%96%B0%E9%97%BB2023%E5%B9%B412%E6%9C%8820%E6%97%A5.mp4
+12月21日新闻,http://www.yizhouw.cn/upload/portal/video/%E4%B9%89%E5%8E%BF%E6%96%B0%E9%97%BB/%E4%B9%89%E5%8E%BF%E6%96%B0%E9%97%BB2023%E5%B9%B412%E6%9C%8821%E6%97%A5.mp4
+12月22日新闻,http://www.yizhouw.cn/upload/portal/video/%E4%B9%89%E5%8E%BF%E6%96%B0%E9%97%BB/%E4%B9%89%E5%8E%BF%E6%96%B0%E9%97%BB2023%E5%B9%B412%E6%9C%8822%E6%97%A5.mp4
+12月23日新闻,http://www.yizhouw.cn/upload/portal/video/%E4%B9%89%E5%8E%BF%E6%96%B0%E9%97%BB/%E4%B9%89%E5%8E%BF%E6%96%B0%E9%97%BB2023%E5%B9%B412%E6%9C%8823%E6%97%A5.mp4
+12月24日新闻,http://www.yizhouw.cn/upload/portal/video/%E4%B9%89%E5%8E%BF%E6%96%B0%E9%97%BB/%E4%B9%89%E5%8E%BF%E6%96%B0%E9%97%BB2023%E5%B9%B412%E6%9C%8824%E6%97%A5.mp4
+12月25日新闻,http://www.yizhouw.cn/upload/portal/video/%E4%B9%89%E5%8E%BF%E6%96%B0%E9%97%BB/%E4%B9%89%E5%8E%BF%E6%96%B0%E9%97%BB2023%E5%B9%B412%E6%9C%88225%E6%97%A5.mp4
+12月26日新闻,http://www.yizhouw.cn/upload/portal/video/%E4%B9%89%E5%8E%BF%E6%96%B0%E9%97%BB/%E4%B9%89%E5%8E%BF%E6%96%B0%E9%97%BB2023%E5%B9%B412%E6%9C%8826%E6%97%A5.mp4
+12月27日新闻,http://www.yizhouw.cn/upload/portal/video/%E4%B9%89%E5%8E%BF%E6%96%B0%E9%97%BB/%E4%B9%89%E5%8E%BF%E6%96%B0%E9%97%BB2023%E5%B9%B412%E6%9C%8827%E6%97%A5.mp4
+12月28日新闻,http://www.yizhouw.cn/upload/portal/video/%E4%B9%89%E5%8E%BF%E6%96%B0%E9%97%BB/%E4%B9%89%E5%8E%BF%E6%96%B0%E9%97%BB2023%E5%B9%B412%E6%9C%8828%E6%97%A5.mp4
+12月29日新闻,http://www.yizhouw.cn/upload/portal/video/%E4%B9%89%E5%8E%BF%E6%96%B0%E9%97%BB/%E4%B9%89%E5%8E%BF%E6%96%B0%E9%97%BB2023%E5%B9%B412%E6%9C%8829%E6%97%A5.mp4
+12月30日新闻,http://www.yizhouw.cn/upload/portal/video/%E4%B9%89%E5%8E%BF%E6%96%B0%E9%97%BB/%E4%B9%89%E5%8E%BF%E6%96%B0%E9%97%BB2023%E5%B9%B412%E6%9C%8830%E6%97%A5.mp4
+12月31日新闻,http://www.yizhouw.cn/upload/portal/video/%E4%B9%89%E5%8E%BF%E6%96%B0%E9%97%BB/%E4%B9%89%E5%8E%BF%E6%96%B0%E9%97%BB2023%E5%B9%B412%E6%9C%8831%E6%97%A5.mp4
 
 咪咕体育,#genre#
 咪咕直播-1,http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
